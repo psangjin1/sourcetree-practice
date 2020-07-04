@@ -1,0 +1,4 @@
+#include <stdio.h>
+
+printf("멋진 나");
+scanf("");
